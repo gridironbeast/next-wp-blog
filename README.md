@@ -1,3 +1,5 @@
+Yes, I tried to mix Nextjs(as frontend) with Wordpress(as backend). It didn't turn out so pretty and it wasn't easy, I would say, hard as hell, but, yeah. I enjoyed it. Also used GraphQL.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
